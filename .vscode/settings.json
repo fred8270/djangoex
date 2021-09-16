@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/db3abdb6-addc-4b68-96fc-417494fd7e37/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tlipweb",
+    "appService.deploySubpath": "."
+}
